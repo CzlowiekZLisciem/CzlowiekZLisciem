@@ -14,13 +14,13 @@ I'm a software developer focused on building practical projects and improving my
 
 **Tools & Technologies**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4F772D?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4F772D?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4F772D?style=flat-square&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-31572C?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-31572C?style=flat-square&logo=github&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-90A955?style=flat-square&logo=gradle&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-DDA15E?style=flat-square&logo=p5.js&logoColor=white)
 
 ## Featured Projects
 
