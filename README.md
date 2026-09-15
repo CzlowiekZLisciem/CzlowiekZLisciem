@@ -8,19 +8,16 @@
 I'm a software developer focused on building practical projects and improving my skills through hands-on work. I enjoy turning ideas into working software, experimenting with creative coding, and learning by building.
 
 ## Technologies & Tools
+![Java](https://img.shields.io/badge/Java-4F772D?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4F772D?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4F772D?style=for-the-badge&logo=javascript&logoColor=white)
 
-**Most used languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CzlowiekZLisciem&layout=compact)
+![Git](https://img.shields.io/badge/Git-31572C?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-31572C?style=for-the-badge&logo=github&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-90A955?style=for-the-badge&logo=gradle&logoColor=white)
 
-**Tools & Technologies**
-
-![Java](https://img.shields.io/badge/Java-4F772D?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4F772D?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4F772D?style=flat-square&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-31572C?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-31572C?style=flat-square&logo=github&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-90A955?style=flat-square&logo=gradle&logoColor=white)
-![p5.js](https://img.shields.io/badge/p5.js-DDA15E?style=flat-square&logo=p5.js&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-DDA15E?style=for-the-badge&logo=p5.js&logoColor=white)
+![FastF1](https://img.shields.io/badge/FastF1-90A955?style=for-the-badge&logo=python&logoColor=white)
 
 ## Featured Projects
 
