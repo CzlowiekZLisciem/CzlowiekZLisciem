@@ -7,7 +7,7 @@
 
 I'm a software developer focused on building practical projects and improving my skills through hands-on work. I enjoy turning ideas into working software, experimenting with creative coding, and learning by building.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 **Languages**
 
@@ -22,7 +22,7 @@ I'm a software developer focused on building practical projects and improving my
 * p5.js
 * FastF1 API
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🌙 Goodnight
 
@@ -50,7 +50,7 @@ I'm working on projects that combine **software development, games, and creative
 * Object-oriented programming and software design
 * Building better, more maintainable projects
 * Game development and creative coding
-* Developing a stronger software development portfolio
+* Currently a student of Software Technology at Linnaeus University in Växjö
 
 ## 📚 Background
 
@@ -61,6 +61,9 @@ I also have a background in International Law studies at Malmö University.
 ## 📫 Find Me
 
 * 💻 GitHub: [@CzlowiekZLisciem](https://github.com/CzlowiekZLisciem)
+* 📩 Email: kfedorow.fedorki@gmail.com
+* 📷 Instagram: https://www.instagram.com/fedorow_arts?utm_source=qr&stkn=OHpidDR6MXYzd242
+
 
 ---
 
