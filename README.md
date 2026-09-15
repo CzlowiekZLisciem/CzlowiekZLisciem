@@ -10,7 +10,7 @@ I'm a software developer focused on building practical projects and improving my
 ## Technologies & Tools
 
 **Most used languages**
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CzlowiekZLisciem&layout=compact)](https://github.com/CzlowiekZLisciem)
+![Top Languages](IMAGE)
 
 **Tools & Technologies**
 
