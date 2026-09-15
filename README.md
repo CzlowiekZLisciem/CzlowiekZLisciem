@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/vine.png" width="900">
+</p>
+
 # Karina Fedorow
 
 ### Software Developer · Java / Python
@@ -63,5 +67,7 @@ I also have a background in International Law studies at Malmö University.
 
 
 ---
-
+<p align="center">
+  <img src="./assets/bear.png" width="180">
+</p>
 ⭐ Thanks for stopping by!
