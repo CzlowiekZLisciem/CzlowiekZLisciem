@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/vine.png" width="900">
+  <img src="./assets/vines.png" width="900">
 </p>
 
 # Karina Fedorow
@@ -68,6 +68,6 @@ I also have a background in International Law studies at Malmö University.
 
 ---
 <p align="center">
-  <img src="./assets/bear.png" width="180">
+  <img src="./assets/cutiebear.png" width="180">
 </p>
 ⭐ Thanks for stopping by!
