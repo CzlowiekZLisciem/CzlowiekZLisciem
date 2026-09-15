@@ -1,3 +1,9 @@
+<div style="background-color: #F3EFDF; padding: 30px;">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CzlowiekZLisciem/CzlowiekZLisciem/main/assets/vine.png" width="900">
+</p>
+
 <p align="center">
   <img src="./assets/vines.png" width="900">
 </p>
@@ -71,3 +77,4 @@ I also have a background in International Law studies at Malmö University.
   <img src="./assets/cutiebear.png" width="180">
 </p>
 ⭐ Thanks for stopping by!
+</div>
