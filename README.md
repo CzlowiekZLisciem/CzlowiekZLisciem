@@ -1,4 +1,4 @@
-<div style="background-color: #F3EFDF; padding: 30px;">
+<div style="background-color: #F3EFDF;">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CzlowiekZLisciem/CzlowiekZLisciem/main/assets/vine.png" width="900">
