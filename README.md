@@ -1,9 +1,3 @@
-<div style="background-color: #F3EFDF;">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CzlowiekZLisciem/CzlowiekZLisciem/main/assets/vine.png" width="900">
-</p>
-
 <p align="center">
   <img src="./assets/vines.png" width="900">
 </p>
